@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.exe
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.deps.json
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.runtimeconfig.json
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.runtimeconfig.dev.json
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.dll
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\bin\Debug\netcoreapp3.1\Tasks13.pdb
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.AssemblyInfo.cs
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.dll
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.pdb
+C:\Users\Baxtiyar\Desktop\Tasks222\Tasks13\Tasks13\obj\Debug\netcoreapp3.1\Tasks13.genruntimeconfig.cache
